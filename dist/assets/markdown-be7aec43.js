@@ -1,0 +1,1 @@
+import{dP as r,x as n,aq as a,cP as o,ad as c,ap as d}from"./index-b4bec724.js";const u=()=>{const[e]=r();return n(d,{get loading(){return e.loading},get children(){return n(a,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(c.obj.name)},toc:!0})}})};export{u as default};
