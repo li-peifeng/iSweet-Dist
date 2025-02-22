@@ -1,1 +1,0 @@
-import{dK as r,h as n,af as a,cB as o,a3 as c,ae as s}from"./index.79025b4f.js";const u=()=>{const[e]=r();return n(s,{get loading(){return e.loading},get children(){return n(a,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(c.obj.name)},toc:!0})}})};export{u as default};
